@@ -1,5 +1,5 @@
 # Moving_boxes
-My first project with the usage of JavaScript. User can move boxes up and down by clicking on them.
+My first project with the use of JavaScript. User can move boxes up and down by clicking on them.
 ## Content
 The graphic is written in svg. Based on IDs given to specific elements two classes are added to elements that are supposed to move:
 ```css
